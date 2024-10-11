@@ -41,9 +41,12 @@ A continuación, se muestran los datos nulos (NA) en cada una de las variables:
 ![Resultado NA en R](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/1.png)
 
 Se realizó la limpieza de datos eliminando los registros que contenían datos nulos (NA).  A continuación, se muestra el número de datos o registros a procesar (188) sin considerar el encabezado de cada columna, posterior a la limpieza de datos nulos:
+
+![Registros sin NA](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/2.png)
+
 Después de la limpieza de los datos se verificó que ya no existiera ningún dato nulo:
 
-![Catharus aurantiirostris](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/2.png)
+![Resultados sin NA](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/main/Imagenes/3.png)
 
 ## **Análisis exploratorio de datos**
 
@@ -67,7 +70,7 @@ A continuación, se muestra el nombre de las variables, el tipo de dato identifi
 
 Se muestra el tipo de datos después de la limpieza de datos:
 
-![Catharus aurantiirostris](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/3.png)
+![Tipos de datos](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/main/Imagenes/4.png)
 
 **Análisis estadístico descriptivo de los datos**
 
@@ -85,7 +88,12 @@ A continuación, se muestra el análisis estadístico descriptivo de las variabl
 
 Se muestran algunos resultados de R del cálculo de la tabla anterior:
 
+![Estadística descriptiva 1](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/main/Imagenes/5.png)
+![Estadística descriptiva 2](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/main/Imagenes/6.png)
+
 **Estadística descriptiva por especie:**
+
+![Estadística descriptiva por especie](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/main/Imagenes/7.png)
 
 De lo anterior se puede destacar lo siguiente:
 El peso promedio de las especies de aves es de 16.40 g con una desviación estándar de 14.10 mm.
@@ -115,7 +123,7 @@ Finalmente, se incluye una página oculta que contiene una tabla de detalles en 
 
 **Principales visualizaciones**
 
-
+![Panel 1 Power BI](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-09%20130445.png)
 
 Aquí podemos observar que hubo un total de 189 aves, distribuidas en 52 especies. Las especies más abundantes en la zona de estudio son Eugenes fulgens (Colibrí magnífico), Basilinna leucotis (Colibrí orejas blancas), Saucerottia beryllina (Colibrí berilo), Catharus occidentalis (Zorzal mexicano), Catharus aurantiirostris (Zorzal pico naranja), Myioborus miniatus (Pavito alas blancas) y Parkesia motacilla (Chipe arroyero). Estas especies de colibríes tienen importancia ya que son polinizadores, lo que favorece la reproducción de las plantas, es decir, la conservación de los bosques. Por otro lado, son especies con distribuciones bastante restringidas, casi exclusivamente al territorio mexicano. 
 
@@ -124,83 +132,91 @@ El sitio BMM es el que presenta un mayor porcentaje de especies del total, con u
 Durante el mes de abril es cuando encontramos un mayor número de especies, lo que coincide con la temporada migratoria, que es cuando las aves de Norteamérica vienen a los bosques de México para pasar el invierno. 
 
 
-
-
-
-
+![Segundo panel](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-09%20133943.png)
 
 Aquí podemos observar que en efecto existe una correlación entre el tamaño del ala y del peso, lo cual se relaciona con que aunque son diferentes especies, tienden a tener un comportamiento de vuelo similar entre ellas. Por otro lado, podemos observar que existe una relación positiva entre el ancho y el alto del pico. 
 
 
+![Peso y ala hembras](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-09%20130553.png)
+
 Sin embargo, podemos observar que si nos enfocamos en las hembras (H), la correlación entre el peso y el ala cambia, mientras que la correlación en el tamaño del pico se mantiene. Podemos asumir que hay una diferencia morfológica entre sexos. 
 
 
-
-
-
+![peso y ala machos](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-09%20130822.png)
 
 Si revisamos la visualización y nos centramos en los Machos (M), podemos notar que los datos se comportan de forma diferente; aquí sí se mantiene la correlación tanto del pico como del peso y el ala. 
 
 
+![peso y ala BMM](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-09%20131056.png)
 
 Si lo filtramos por sitio, podemos ver que en BMM se mantiene la relación en ambos gráficos, lo mismo pasa con BQ, lo que nos indica que estos sitios tienen especies con comportamientos y requerimientos de recursos similares. 
 
 
-
+![Dispersiónd de datos BQ](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-09%20131244.png)
 
 Aunque en BQ están un poco más dispersos. 
 
 
+![Dispersión de datos RIO](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-09%20131346.png)
 
 Para el caso de RIO, la relación peso-tamaño de ala tiende a agruparse en un solo lado de la gráfica, aunque tenemos un punto distante, que se trata de Melanotis caerulescens, un ave que suele adaptarse mejor a distintos ambientes, por lo que a pesar de no seguir la tendencia, puede estar en este sitio aprovechando los recursos que ofrece. 
 
 
 
-
+![Tabla detalle por especie](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-09%20132007.png)
 
 Finalmente aquí mostramos la tabla de detalles de las especies que está disponible para consultar desde las otras dos páginas.
+
+
+
 ## **Interpretación y conclusiones**
 
 **Resultados del análisis**
-1. Hay un mayor número de especies de sexo desconocido, después de sexo hembra y finalmente de sexo macho. Esto se debe a que existen aves que no presentan un claro dimorfismo sexual (diferencia visual entre machos y hembras), por lo que a simple vista no se puede determinar el sexo. Por otro lado, comparando la proporción de machos y hembras es una proporción esperada y favorable en la dinámica poblacional, lo que nos indica una reproducción y supervivencia favorable al menos en este aspecto. 
-2. El mayor número de especies se encuentra en el Bosque Mesófilo de Montaña (BMM), después siguen las aves de Bosques de Encino, en tercer lugar, los registrados en el hábitat ripario (RIO), finalmente el sitio que tiene la menor cantidad de especies es el Bosque de Pino (BP). Esto nos indica que el BMM es el sitio con un mayor número de recursos (alimento, escondite, agua, sitio de anidación) favorables para que un mayor número de especies encuentren este sitio favorable para vivir. Esto nos habla de que el BMM es el sitio con mayor diversidad de aves, mientras que BP es el sitio con un menor número de recursos disponibles para estos organismos. 
+1. Hay un mayor número de especies de sexo desconocido, después de sexo hembra y finalmente de sexo macho. Esto se debe a que existen aves que no presentan un claro dimorfismo sexual (diferencia visual entre machos y hembras), por lo que a simple vista no se puede determinar el sexo. Por otro lado, comparando la proporción de machos y hembras es una proporción esperada y favorable en la dinámica poblacional, lo que nos indica una reproducción y supervivencia favorable al menos en este aspecto.
 
-3. Abril es el mes en el que más especies se registraron, seguido por enero, noviembre y finalmente agosto. Esta información coincide con el ciclo de migración de las aves, las cuales llegan a refugiarse a los bosques de México en el periodo comprendido entre Septiembre y Abril, por lo que podemos confirmar que esta es una de las zonas de importancia para la supervivencia invernal de las aves que vienen del norte del continente año con año. 
-4. La mayoría de las especies muestra una longitud del ala entre 50 y 80 mm. Vemos que las especies de aves tienen un rango de longitud de ala muy pequeño, para esto debemos considerar que en esta base de datos solo se contemplan las aves que habitan en la zona baja del bosque, por lo que aves rapaces, acuáticas o algunas más grandes deben analizarse por separado en otro tipo de estudios. 
+![Gráfica sexos](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-11%20105214.png)
 
-5. La mayoría de las especies muestra una longitud del ancho del pico entre 2 y 7 mm. El tamaño del pico tiene que ver con el uso de los recursos y la alimentación de cada especie, por lo que podemos ver que la mayoría de las aves en este caso tienen picos relativamente cortos, lo que nos indica que hay más especies que consumen semillas e insectos como alimento principal, sin embargo, tenemos pocas especies que presentan picos más largos propios de aves polinizadoras. 
-
-6. La mayoría de las especies muestra una longitud del tarso de entre 11 y 25 mm. 
-
-7. La mayoría de las especies muestra una longitud de la cola entre 20 y 75 mm. En este caso y el anterior, podemos observar un rango amplio del tamaño del tarso y la cola, lo cual nos da información sobre la movilidad de las aves dentro de su territorio. Podemos ver que hay aves que se mueven tanto en el suelo del bosque como en estratos de vegetación más altos, por lo que sabemos que están utilizando distintos recursos alimenticios y de anidación. 
-
-8. Existe una correlación positiva entre el peso de las aves y la longitud del ala, a mayor peso, mayor longitud del ala. En este caso, podemos saber que las aves de esta zona de estudio tienen comportamientos de vuelo similares entre ellas, ya que a pesar de que haya aves de distintos tamaños (peso) tienden a necesitar cierta proporción de tamaño de ala para poder realizar las actividades cotidianas.
-
-
-9. Existe una correlación positiva entre el ancho del pico de las aves y la altura del pico a mayor anchura del pico, mayor altura del pico. Esto nos habla de que la mayoría de las aves tienen picos pequeños, lo que corrobora la información obtenida en el histograma presentado previamente. 
-
-
-10. Al parecer no existe correlación entre el ancho y el largo del pico, están muy dispersos los datos. 
+   
+2. El mayor número de especies se encuentra en el Bosque Mesófilo de Montaña (BMM), después siguen las aves de Bosques de Encino, en tercer lugar, los registrados en el hábitat ripario (RIO), finalmente el sitio que tiene la menor cantidad de especies es el Bosque de Pino (BP). Esto nos indica que el BMM es el sitio con un mayor número de recursos (alimento, escondite, agua, sitio de anidación) favorables para que un mayor número de especies encuentren este sitio favorable para vivir. Esto nos habla de que el BMM es el sitio con mayor diversidad de aves, mientras que BP es el sitio con un menor número de recursos disponibles para estos organismos.
 
 
 
-11. Al parecer, tampoco hay correlación entre la longitud del tarso y de la cola, mucha dispersión de datos. Esto nos habla de una mayor diversidad de medidas en las especies de la zona, lo que corrobora que existe una amplia diversidad de especies y de funciones que llevan a cabo en los bosques para favorecer su conservación.
+4. Abril es el mes en el que más especies se registraron, seguido por enero, noviembre y finalmente agosto. Esta información coincide con el ciclo de migración de las aves, las cuales llegan a refugiarse a los bosques de México en el periodo comprendido entre Septiembre y Abril, por lo que podemos confirmar que esta es una de las zonas de importancia para la supervivencia invernal de las aves que vienen del norte del continente año con año. 
+5. La mayoría de las especies muestra una longitud del ala entre 50 y 80 mm. Vemos que las especies de aves tienen un rango de longitud de ala muy pequeño, para esto debemos considerar que en esta base de datos solo se contemplan las aves que habitan en la zona baja del bosque, por lo que aves rapaces, acuáticas o algunas más grandes deben analizarse por separado en otro tipo de estudios. 
 
-12. El mayor valor de mediana del peso de las aves lo encontramos en las que viven en el sitio BQ. Hay dos datos extremos en BMM y (RIO): En este caso es importante ver cuáles son estas especies, ya que seguramente son más escasas y pudiera tratarse de especies en alguna categoría de riesgo de extinción o endemismo (que sólo se encuentran en territorio mexicano).
+6. La mayoría de las especies muestra una longitud del ancho del pico entre 2 y 7 mm. El tamaño del pico tiene que ver con el uso de los recursos y la alimentación de cada especie, por lo que podemos ver que la mayoría de las aves en este caso tienen picos relativamente cortos, lo que nos indica que hay más especies que consumen semillas e insectos como alimento principal, sin embargo, tenemos pocas especies que presentan picos más largos propios de aves polinizadoras. 
 
-13. Las aves que viven en pinos muestran los valores mayores de largo del pico en milímetros, sin embargo se traslapan los datos, lo que nos indica que no hay diferencia significativa entre sitios, aunque podemos decir que BP y RIO son más distintos entre ellos. 
+7. La mayoría de las especies muestra una longitud del tarso de entre 11 y 25 mm. 
 
+8. La mayoría de las especies muestra una longitud de la cola entre 20 y 75 mm. En este caso y el anterior, podemos observar un rango amplio del tamaño del tarso y la cola, lo cual nos da información sobre la movilidad de las aves dentro de su territorio. Podemos ver que hay aves que se mueven tanto en el suelo del bosque como en estratos de vegetación más altos, por lo que sabemos que están utilizando distintos recursos alimenticios y de anidación. 
 
-14. Las aves que viven en bosque mesófilo de montaña muestran los valores mayores en tarso y una variedad más amplia de estas medidas
-
-15. Las aves que se registraron en abril muestran los valores mayores en longitud del ala en mm:
-
-
-
-16. Las aves que se registraron en abril muestran los valores mayores de peso en gramos, seguido de las aves de agosto. Las de noviembre presentan mayor dispersión de datos por encima de la mediana:
+9. Existe una correlación positiva entre el peso de las aves y la longitud del ala, a mayor peso, mayor longitud del ala. En este caso, podemos saber que las aves de esta zona de estudio tienen comportamientos de vuelo similares entre ellas, ya que a pesar de que haya aves de distintos tamaños (peso) tienden a necesitar cierta proporción de tamaño de ala para poder realizar las actividades cotidianas.
 
 
-17. Las aves que viven en el sitio BMM tiene prácticamente longitudes de ala similares a las aves que viven en BQ:
+10. Existe una correlación positiva entre el ancho del pico de las aves y la altura del pico a mayor anchura del pico, mayor altura del pico. Esto nos habla de que la mayoría de las aves tienen picos pequeños, lo que corrobora la información obtenida en el histograma presentado previamente. 
+
+
+11. Al parecer no existe correlación entre el ancho y el largo del pico, están muy dispersos los datos. 
+
+
+
+12. Al parecer, tampoco hay correlación entre la longitud del tarso y de la cola, mucha dispersión de datos. Esto nos habla de una mayor diversidad de medidas en las especies de la zona, lo que corrobora que existe una amplia diversidad de especies y de funciones que llevan a cabo en los bosques para favorecer su conservación.
+
+13. El mayor valor de mediana del peso de las aves lo encontramos en las que viven en el sitio BQ. Hay dos datos extremos en BMM y (RIO): En este caso es importante ver cuáles son estas especies, ya que seguramente son más escasas y pudiera tratarse de especies en alguna categoría de riesgo de extinción o endemismo (que sólo se encuentran en territorio mexicano).
+
+14. Las aves que viven en pinos muestran los valores mayores de largo del pico en milímetros, sin embargo se traslapan los datos, lo que nos indica que no hay diferencia significativa entre sitios, aunque podemos decir que BP y RIO son más distintos entre ellos. 
+
+
+15. Las aves que viven en bosque mesófilo de montaña muestran los valores mayores en tarso y una variedad más amplia de estas medidas
+
+16. Las aves que se registraron en abril muestran los valores mayores en longitud del ala en mm:
+
+
+
+17. Las aves que se registraron en abril muestran los valores mayores de peso en gramos, seguido de las aves de agosto. Las de noviembre presentan mayor dispersión de datos por encima de la mediana:
+
+
+18. Las aves que viven en el sitio BMM tiene prácticamente longitudes de ala similares a las aves que viven en BQ:
 
 
 
