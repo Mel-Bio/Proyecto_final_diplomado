@@ -1,5 +1,7 @@
 # **Diversidad de aves en la Faja Volcánica Transversal**
 
+![Catharus aurantiirostris]([URL-de-la-imagen](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-11%20104853.png))
+
 ## **Introducción**
 
 Las aves son organismos que contribuyen a muchas funciones de los ecosistemas, y se consideran clave en la dinámica de los bosques, porque llevan a cabo funciones como depredación de insectos herbívoros, dispersión de semillas, polinización, etc. Además de que llenan múltiples nichos ecológicos y se consideran enlaces móviles que favorecen la resiliencia de los bosques (Luck, 2013; Vaccaro, 2019). 
