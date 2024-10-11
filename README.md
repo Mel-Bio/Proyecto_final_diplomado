@@ -236,7 +236,7 @@ En Abril y Enero el número de especies fue más elevado, lo que, al ser los mes
 ## **Referencias**
 
 
-Luck GW, Carter A, Smallbone L. 2013. Changes in Bird Functional Diversity across Multiple Land Uses: Interpretations of Functional Redundancy Depend on Functional Group Identity. PLoS ONE 8(5): e63671. doi:10.1371/journal.pone.0063671
+Luck GW, Carter A, Smallbone L. 2013. Changes in Bird Functional Diversity across Multiple Land Uses: Interpretations of Functional Redundancy Depend on Functional Group Identity. PLoS ONE 8(5): e63671. doi:10.1371/journal.pone.006367
 Navarro-Sigüenza, A. G., Rebón-Gallardo, Ma. F., Gordillo-Martínez, A., Townsend Peterson, A., Berlanga-García, H., y Sánchez-González, L. A. (2014). Biodiversidad de aves en México. Revista mexicana de biodiversidad, 85(Supl. ene), S476-S495. https://doi.org/10.7550/rmb.41882
 Palomera-García, C., Santana, E., Contreras- Martínez, S., &amp; Amparán, R. (2007). Jalisco, en R. Ortiz-Pulido, A. Navarro-Sigüenza, H. Gómez de Silva, O. Rojas-Soto, &amp; T. A. Peterson (Eds.), Avifaunas estatales de México (pp. 1–48). CIPAMEX.
 Salgado-Negret, B. (2015). La ecología funcional como aproximación al estudio, manejo y conservación de la biodiversidad: protocolos y aplicaciones. Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt.
