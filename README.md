@@ -27,7 +27,7 @@ Con el objetivo de conocer mejor cómo se compone la diversidad de aves de la re
 |Fecha | Se relaciona con las dinámicas de migración latitudinal y altitudinal |
 |Sitio | Se relaciona con el uso de hábitat a nivel regional, así como de los recursos disponibles en cada uno |
 
-![Morfometría de aves](Imagenes/Captura de pantalla 2024-10-11 104904.png)
+![Morfometría de aves](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-11%20104904.png)
 
 
 ## **Preparación y limpieza de datos**
@@ -38,8 +38,12 @@ En cuanto a la limpieza de datos, de acuerdo con lo visto en las clases de R, se
 
 A continuación, se muestran los datos nulos (NA) en cada una de las variables:
 
+![Resultado NA en R](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/1.png)
+
 Se realizó la limpieza de datos eliminando los registros que contenían datos nulos (NA).  A continuación, se muestra el número de datos o registros a procesar (188) sin considerar el encabezado de cada columna, posterior a la limpieza de datos nulos:
 Después de la limpieza de los datos se verificó que ya no existiera ningún dato nulo:
+
+![Catharus aurantiirostris](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/2.png)
 
 ## **Análisis exploratorio de datos**
 
@@ -63,6 +67,7 @@ A continuación, se muestra el nombre de las variables, el tipo de dato identifi
 
 Se muestra el tipo de datos después de la limpieza de datos:
 
+![Catharus aurantiirostris](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/3.png)
 
 **Análisis estadístico descriptivo de los datos**
 
