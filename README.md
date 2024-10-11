@@ -27,6 +27,9 @@ Con el objetivo de conocer mejor cómo se compone la diversidad de aves de la re
 |Fecha | Se relaciona con las dinámicas de migración latitudinal y altitudinal |
 |Sitio | Se relaciona con el uso de hábitat a nivel regional, así como de los recursos disponibles en cada uno |
 
+![Morfometría de aves](Imagenes/Captura de pantalla 2024-10-11 104904.png)
+
+
 ## **Preparación y limpieza de datos**
 
 En la base de datos encontramos 55 especies representadas en 221 individuos.
