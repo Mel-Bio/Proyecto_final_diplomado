@@ -179,70 +179,48 @@ Finalmente aquí mostramos la tabla de detalles de las especies que está dispon
    
 2. El mayor número de especies se encuentra en el Bosque Mesófilo de Montaña (BMM), después siguen las aves de Bosques de Encino, en tercer lugar, los registrados en el hábitat ripario (RIO), finalmente el sitio que tiene la menor cantidad de especies es el Bosque de Pino (BP). Esto nos indica que el BMM es el sitio con un mayor número de recursos (alimento, escondite, agua, sitio de anidación) favorables para que un mayor número de especies encuentren este sitio favorable para vivir. Esto nos habla de que el BMM es el sitio con mayor diversidad de aves, mientras que BP es el sitio con un menor número de recursos disponibles para estos organismos.
 
-
+![peso y ala machos](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-11%20105224.png)
 
 4. Abril es el mes en el que más especies se registraron, seguido por enero, noviembre y finalmente agosto. Esta información coincide con el ciclo de migración de las aves, las cuales llegan a refugiarse a los bosques de México en el periodo comprendido entre Septiembre y Abril, por lo que podemos confirmar que esta es una de las zonas de importancia para la supervivencia invernal de las aves que vienen del norte del continente año con año. 
+![](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-11%20105224.png)
+
 5. La mayoría de las especies muestra una longitud del ala entre 50 y 80 mm. Vemos que las especies de aves tienen un rango de longitud de ala muy pequeño, para esto debemos considerar que en esta base de datos solo se contemplan las aves que habitan en la zona baja del bosque, por lo que aves rapaces, acuáticas o algunas más grandes deben analizarse por separado en otro tipo de estudios. 
-
+![](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-11%20105309.png)
 6. La mayoría de las especies muestra una longitud del ancho del pico entre 2 y 7 mm. El tamaño del pico tiene que ver con el uso de los recursos y la alimentación de cada especie, por lo que podemos ver que la mayoría de las aves en este caso tienen picos relativamente cortos, lo que nos indica que hay más especies que consumen semillas e insectos como alimento principal, sin embargo, tenemos pocas especies que presentan picos más largos propios de aves polinizadoras. 
-
+![](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-11%20105332.png)
 7. La mayoría de las especies muestra una longitud del tarso de entre 11 y 25 mm. 
-
+![](
 8. La mayoría de las especies muestra una longitud de la cola entre 20 y 75 mm. En este caso y el anterior, podemos observar un rango amplio del tamaño del tarso y la cola, lo cual nos da información sobre la movilidad de las aves dentro de su territorio. Podemos ver que hay aves que se mueven tanto en el suelo del bosque como en estratos de vegetación más altos, por lo que sabemos que están utilizando distintos recursos alimenticios y de anidación. 
-
+![]
 9. Existe una correlación positiva entre el peso de las aves y la longitud del ala, a mayor peso, mayor longitud del ala. En este caso, podemos saber que las aves de esta zona de estudio tienen comportamientos de vuelo similares entre ellas, ya que a pesar de que haya aves de distintos tamaños (peso) tienden a necesitar cierta proporción de tamaño de ala para poder realizar las actividades cotidianas.
-
+![]
 
 10. Existe una correlación positiva entre el ancho del pico de las aves y la altura del pico a mayor anchura del pico, mayor altura del pico. Esto nos habla de que la mayoría de las aves tienen picos pequeños, lo que corrobora la información obtenida en el histograma presentado previamente. 
-
+![]
 
 11. Al parecer no existe correlación entre el ancho y el largo del pico, están muy dispersos los datos. 
-
+![]
 
 
 12. Al parecer, tampoco hay correlación entre la longitud del tarso y de la cola, mucha dispersión de datos. Esto nos habla de una mayor diversidad de medidas en las especies de la zona, lo que corrobora que existe una amplia diversidad de especies y de funciones que llevan a cabo en los bosques para favorecer su conservación.
-
+![]
 13. El mayor valor de mediana del peso de las aves lo encontramos en las que viven en el sitio BQ. Hay dos datos extremos en BMM y (RIO): En este caso es importante ver cuáles son estas especies, ya que seguramente son más escasas y pudiera tratarse de especies en alguna categoría de riesgo de extinción o endemismo (que sólo se encuentran en territorio mexicano).
-
+![]
 14. Las aves que viven en pinos muestran los valores mayores de largo del pico en milímetros, sin embargo se traslapan los datos, lo que nos indica que no hay diferencia significativa entre sitios, aunque podemos decir que BP y RIO son más distintos entre ellos. 
-
+![]
 
 15. Las aves que viven en bosque mesófilo de montaña muestran los valores mayores en tarso y una variedad más amplia de estas medidas
-
+![]
 16. Las aves que se registraron en abril muestran los valores mayores en longitud del ala en mm:
 
-
+![]
 
 17. Las aves que se registraron en abril muestran los valores mayores de peso en gramos, seguido de las aves de agosto. Las de noviembre presentan mayor dispersión de datos por encima de la mediana:
 
-
+![]
 18. Las aves que viven en el sitio BMM tiene prácticamente longitudes de ala similares a las aves que viven en BQ:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![]
 
 **Conclusiones**
 
@@ -253,20 +231,13 @@ La especie de mayor tamaño registrada es Melanotis caerulescens, el cual es un 
 Las aves que viven en Bosque de Pino muestran los valores mayores de largo del pico, lo cual nos indica que en esta zona no hay tantas especies granívoras, más bien podrían encontrarse aves insectívoras o nectarívoras, por lo que es un ambiente que pude tener relevancia para organismos muy especializados. 
 En Abril y Enero el número de especies fue más elevado, lo que, al ser los meses de temporada migratoria, nos indica que esta zona es importante para las aves que se refugian en territorio mexicano, lo cual debe tomarse en cuenta durante los planes de manejo y administración de esta zona natural
 
-
-
-
-
-
-
 ## **Referencias**
 
-
-Luck GW, Carter A, Smallbone L. 2013. Changes in Bird Functional Diversity across Multiple Land Uses: Interpretations of Functional Redundancy Depend on Functional Group Identity. PLoS ONE 8(5): e63671. doi:10.1371/journal.pone.006367
-Navarro-Sigüenza, A. G., Rebón-Gallardo, Ma. F., Gordillo-Martínez, A., Townsend Peterson, A., Berlanga-García, H., y Sánchez-González, L. A. (2014). Biodiversidad de aves en México. Revista mexicana de biodiversidad, 85(Supl. ene), S476-S495. https://doi.org/10.7550/rmb.41882
-Palomera-García, C., Santana, E., Contreras- Martínez, S., &amp; Amparán, R. (2007). Jalisco, en R. Ortiz-Pulido, A. Navarro-Sigüenza, H. Gómez de Silva, O. Rojas-Soto, &amp; T. A. Peterson (Eds.), Avifaunas estatales de México (pp. 1–48). CIPAMEX.
-Salgado-Negret, B. (2015). La ecología funcional como aproximación al estudio, manejo y conservación de la biodiversidad: protocolos y aplicaciones. Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt.
-Vaccaro, A. y Bellocq, M. 2019. Diversidad taxonómica y funcional de aves: Diferencias entre hábitats antrópicos en un bosque subtropical. Ecología Austral, 29, 391-404.
+- Luck GW, Carter A, Smallbone L. 2013. Changes in Bird Functional Diversity across Multiple Land Uses: Interpretations of Functional Redundancy Depend on Functional Group Identity. PLoS ONE 8(5): e63671. doi:10.1371/journal.pone.006367
+- Navarro-Sigüenza, A. G., Rebón-Gallardo, Ma. F., Gordillo-Martínez, A., Townsend Peterson, A., Berlanga-García, H., y Sánchez-González, L. A. (2014). Biodiversidad de aves en México. Revista mexicana de biodiversidad, 85(Supl. ene), S476-S495. https://doi.org/10.7550/rmb.41882
+- Palomera-García, C., Santana, E., Contreras- Martínez, S., &amp; Amparán, R. (2007). Jalisco, en R. Ortiz-Pulido, A. Navarro-Sigüenza, H. Gómez de Silva, O. Rojas-Soto, &amp; T. A. Peterson (Eds.), Avifaunas estatales de México (pp. 1–48). CIPAMEX.
+- Salgado-Negret, B. (2015). La ecología funcional como aproximación al estudio, manejo y conservación de la biodiversidad: protocolos y aplicaciones. Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt.
+- Vaccaro, A. y Bellocq, M. 2019. Diversidad taxonómica y funcional de aves: Diferencias entre hábitats antrópicos en un bosque subtropical. Ecología Austral, 29, 391-404.
 
 
 
