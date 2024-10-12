@@ -29,10 +29,11 @@ Con el objetivo de conocer mejor cómo se compone la diversidad de aves de la re
 
 ![Morfometría de aves](https://github.com/Mel-Bio/Proyecto_final_diplomado/blob/99412c533a5584d082f4670ca7e1d4d053fba667/Imagenes/Captura%20de%20pantalla%202024-10-11%20104904.png)
 
-gggggg
+## Preguntas que queremos responder
+- ¿Cuál es el hábitat donde se encuentra el mayor número de especies?
+- ¿Cuáles son las especies más abundantes en el área de estudio?
+- ¿Existe una correlación entre las distintas medidas morfométricas
 
-
-Preguntas que queremos responder![image](https://github.com/user-attachments/assets/04ec793b-142c-4a0b-92b9-8d731df48bcf)
 
 ## **Preparación y limpieza de datos**
 
